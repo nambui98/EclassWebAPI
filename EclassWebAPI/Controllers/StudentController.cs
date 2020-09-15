@@ -14,6 +14,7 @@ namespace EclassWebAPI.Controllers
         //ádfasdfasdfádfa
         //ádfasdfasdfasdfasdfa
         //hello
+        //hi
         public HttpResponseMessage Get()
         {
             EClassEntities db = new EClassEntities();
